@@ -40,6 +40,11 @@ const config = {
     ],
   ],
 
+i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'fr'],
+  },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -62,6 +67,13 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+        {
+          type: 'localeDropdown',
+          position: 'left',
+          },
+        {
+          type: 'docsVersionDropdown',
+        },
         ],
       },
       footer: {
