@@ -1,44 +1,44 @@
 ---
 slug: long-blog-post
-title: Long Blog Post
+title: Italian Long Blog Post
 authors: endi
 tags: [hello, docusaurus]
 ---
 
-This is the summary of a very long blog post,
+Questo è il riassunto di un lunghissimo post sul blog,
 
-Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
+Usa un commento `<!--` `truncate` `-->` per limitare le dimensioni del post del blog nella visualizzazione elenco.
 
 <!--truncate-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Il dolore stesso è amore, il principale sistema di immagazzinamento. Pellentesque elementum dignissim ultricies Fusce rhoncus ipsum tempor eros aliquam consequat. Tanto dolore è tanto

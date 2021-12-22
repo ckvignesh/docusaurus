@@ -1,25 +1,25 @@
 ---
 slug: welcome
-title: Welcome
+title: Italian Welcome
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[Le funzionalità di blog di Docusaurus](https://docusaurus.io/docs/blog) sono supportate dal [plugin del blog](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog) .
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Aggiungi semplicemente file Markdown (o cartelle) alla directory `blog`.
 
-Regular blog authors can be added to `authors.yml`.
+Gli autori di blog regolari possono essere aggiunti a `authors.yml`.
 
-The blog post date can be extracted from filenames, such as:
+La data del post del blog può essere estratta dai nomi dei file, ad esempio:
 
 - `2019-05-30-welcome.md`
 - `2019-05-30-welcome/index.md`
 
-A blog post folder can be convenient to co-locate blog post images:
+Una cartella di post di blog può essere conveniente per collocare insieme le immagini di post di blog:
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
-The blog supports tags as well!
+Il blog supporta anche i tag!
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+**E se non vuoi un blog**: elimina questa directory e usa `blog: false` nella configurazione di Docusaurus.

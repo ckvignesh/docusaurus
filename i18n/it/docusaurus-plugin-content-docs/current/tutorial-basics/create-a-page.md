@@ -2,42 +2,42 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Italian Create a Page
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Aggiungi i file **Markdown o React** a `src/pages` per creare una **pagina autonoma**:
 
 - `src/pages/index.js` -> `localhost:3000/`
 - `src/pages/foo.md` -> `localhost:3000/foo`
 - `src/pages/foo/bar.js` -> `localhost:3000/foo/bar`
 
-## Create your first React Page
+## Crea la tua prima pagina React
 
-Create a file at `src/pages/my-react-page.js`:
+Crea un file in `src/pages/my-react-page.js`:
 
 ```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+import Reagire da 'reagire';
+importa layout da '@theme/Layout';
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
+esporta la funzione predefinita MyReactPage() {
+   Restituzione (
+     <Layout>
+       <h1>La mia pagina React</h1>
+       <p>Questa è una pagina React</p>
+     </Layout>
+   );
 }
 ```
 
-A new page is now available at `http://localhost:3000/my-react-page`.
+Una nuova pagina è ora disponibile su `http://localhost:3000/my-react-page`.
 
-## Create your first Markdown Page
+## Crea la tua prima pagina Markdown
 
-Create a file at `src/pages/my-markdown-page.md`:
+Crea un file in `src/pages/my-markdown-page.md`:
 
 ```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+# La mia pagina Markdown
 
-This is a Markdown page
+Questa è una pagina Markdown
 ```
 
-A new page is now available at `http://localhost:3000/my-markdown-page`.
+Una nuova pagina è ora disponibile su `http://localhost:3000/my-markdown-page`.

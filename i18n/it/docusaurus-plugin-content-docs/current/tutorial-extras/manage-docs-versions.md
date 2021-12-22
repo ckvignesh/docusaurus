@@ -2,54 +2,54 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Italian Manage Docs Versions
 
-Docusaurus can manage multiple versions of your docs.
+Docusaurus può gestire più versioni dei tuoi documenti.
 
-## Create a docs version
+## Crea una versione di documenti
 
-Release a version 1.0 of your project:
+Rilascia una versione 1.0 del tuo progetto:
 
 ```bash
-npm run docusaurus docs:version 1.0
+npm esegui docusaurus docs: versione 1.0
 ```
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+La cartella "docs" viene copiata in "versioned_docs/version-1.0" e viene creato "versions.json".
 
-Your docs now have 2 versions:
+I tuoi documenti ora hanno 2 versioni:
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
+- `1.0` in `http://localhost:3000/docs/` per i documenti della versione 1.0
+- `current` su `http://localhost:3000/docs/next/` per i **documenti non rilasciati in arrivo**
 
-## Add a Version Dropdown
+## Aggiungi una versione a discesa
 
-To navigate seamlessly across versions, add a version dropdown.
+Per navigare senza problemi tra le versioni, aggiungi un menu a discesa delle versioni.
 
-Modify the `docusaurus.config.js` file:
+Modifica il file `docusaurus.config.js`:
 
 ```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
+modulo.export = {
+  temaConfig: {
+    barra di navigazione: {
+      Oggetti: [
+        // inizio evidenziazione
         {
-          type: 'docsVersionDropdown',
+          digita: 'docsVersionDropdown',
         },
-        // highlight-end
+        // evidenzia-fine
       ],
     },
   },
 };
 ```
 
-The docs version dropdown appears in your navbar:
+Il menu a discesa della versione dei documenti viene visualizzato nella barra di navigazione:
 
-![Docs Version Dropdown](/img/tutorial/docsVersionDropdown.png)
+![Dropdown versione documenti](/img/tutorial/docsVersionDropdown.png)
 
-## Update an existing version
+## Aggiorna una versione esistente
 
-It is possible to edit versioned docs in their respective folder:
+È possibile modificare i documenti con versione nella rispettiva cartella:
 
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+- `versioned_docs/version-1.0/hello.md` aggiorna `http://localhost:3000/docs/hello`
+- `docs/hello.md` aggiorna `http://localhost:3000/docs/next/hello`

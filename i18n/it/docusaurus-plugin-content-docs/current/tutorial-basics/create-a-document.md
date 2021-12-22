@@ -2,54 +2,54 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Italian Create a Document
 
-Documents are **groups of pages** connected through:
+I documenti sono **gruppi di pagine** collegati tramite:
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+- una **barra laterale**
+- **navigazione precedente/successiva**
+- **versione**
 
-## Create your first Doc
+## Crea il tuo primo documento
 
-Create a markdown file at `docs/hello.md`:
+Crea un file markdown su `docs/hello.md`:
 
 ```md title="docs/hello.md"
-# Hello
+# Ciao
 
-This is my **first Docusaurus document**!
+Questo è il mio **primo documento Docusaurus**!
 ```
 
-A new document is now available at `http://localhost:3000/docs/hello`.
+Un nuovo documento è ora disponibile su `http://localhost:3000/docs/hello`.
 
-## Configure the Sidebar
+## Configura la barra laterale
 
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
+Docusaurus **crea automaticamente una barra laterale** dalla cartella `docs`.
 
-Add metadata to customize the sidebar label and position:
+Aggiungi metadati per personalizzare l'etichetta e la posizione della barra laterale:
 
 ```md title="docs/hello.md" {1-4}
 ---
-sidebar_label: 'Hi!'
+sidebar_label: 'Ciao!'
 sidebar_position: 3
 ---
 
-# Hello
+# Ciao
 
-This is my **first Docusaurus document**!
+Questo è il mio **primo documento Docusaurus**!
 ```
 
-It is also possible to create your sidebar explicitly in `sidebars.js`:
+È anche possibile creare esplicitamente la barra laterale in `sidebars.js`:
 
 ```diff title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
--     items: [...],
-+     items: ['hello'],
-    },
-  ],
+modulo.export = {
+   tutorialSidebar: [
+     {
+       tipo: 'categoria',
+       etichetta: 'Tutorial',
+-     Oggetti: [...],
++ elementi: ['ciao'],
+     },
+   ],
 };
 ```

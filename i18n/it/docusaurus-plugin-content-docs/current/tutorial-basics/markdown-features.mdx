@@ -2,143 +2,144 @@
 sidebar_position: 4
 ---
 
-# Markdown Features
+# Italian Markdown Features
 
-Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
+Docusaurus supporta **[Markdown](https://daringfireball.net/projects/markdown/syntax)** e alcune **funzionalità aggiuntive**.
 
-## Front Matter
+## Argomento anteriore
 
-Markdown documents have metadata at the top called [Front Matter](https://jekyllrb.com/docs/front-matter/):
+I documenti Markdown hanno i metadati in alto chiamati [Front Matter](https://jekyllrb.com/docs/front-matter/):
 
-```text title="my-doc.md"
-// highlight-start
+```titolo del testo = "mio-doc.md"
+// inizio evidenziazione
 ---
 id: my-doc-id
-title: My document title
-description: My document description
+titolo: Il mio titolo del documento
+descrizione: la descrizione del mio documento
 slug: /my-custom-url
 ---
-// highlight-end
+// evidenzia-fine
 
-## Markdown heading
+## Intestazione Markdown
 
-Markdown text with [links](./hello.md)
+Testo di markdown con [link](./hello.md)
 ```
 
-## Links
+## Collegamenti
 
-Regular Markdown links are supported, using url paths or relative file paths.
+Sono supportati i collegamenti Markdown regolari, utilizzando percorsi di URL o percorsi di file relativi.
 
 ```md
-Let's see how to [Create a page](/create-a-page).
+Vediamo come [Creare una pagina](/create-a-page).
 ```
 
 ```md
-Let's see how to [Create a page](./create-a-page.md).
+Vediamo come [Creare una pagina](./create-a-page.md).
 ```
 
-**Result:** Let's see how to [Create a page](./create-a-page.md).
+**Risultato:** Vediamo come [Creare una pagina](./create-a-page.md).
 
-## Images
+## Immagini
 
-Regular Markdown images are supported.
+Sono supportate le normali immagini Markdown.
 
-Add an image at `static/img/docusaurus.png` and display it in Markdown:
+Aggiungi un'immagine in `static/img/docusaurus.png` e visualizzala in Markdown:
 
 ```md
-![Docusaurus logo](/img/docusaurus.png)
+![Logo Docusaurus](/img/docusaurus.png)
 ```
 
-![Docusaurus logo](/img/docusaurus.png)
+![Logo Docusaurus](/img/docusaurus.png)
 
-## Code Blocks
+## Blocchi di codice
 
-Markdown code blocks are supported with Syntax highlighting.
+I blocchi di codice Markdown sono supportati con l'evidenziazione della sintassi.
 
     ```jsx title="src/components/HelloDocusaurus.js"
     function HelloDocusaurus() {
-        return (
-            <h1>Hello, Docusaurus!</h1>
+        Restituzione (
+            <h1>Ciao, Docusaurus!</h1>
         )
     }
     ```
 
 ```jsx title="src/components/HelloDocusaurus.js"
 function HelloDocusaurus() {
-  return <h1>Hello, Docusaurus!</h1>;
+  return <h1>Ciao, Docusaurus!</h1>;
 }
 ```
 
-## Admonitions
+## Ammonizioni
 
-Docusaurus has a special syntax to create admonitions and callouts:
+Docusaurus ha una sintassi speciale per creare ammonizioni e richiami:
 
-    :::tip My tip
+    :::consiglio Il mio consiglio
 
-    Use this awesome feature option
-
-    :::
-
-    :::danger Take care
-
-    This action is dangerous
+    Usa questa fantastica opzione di funzionalità
 
     :::
 
-:::tip My tip
+    :::pericolo Attenzione
 
-Use this awesome feature option
+    Questa azione è pericolosa
+
+    :::
+
+:::consiglio Il mio consiglio
+
+Usa questa fantastica opzione di funzionalità
 
 :::
 
-:::danger Take care
+:::pericolo Attenzione
 
-This action is dangerous
+Questa azione è pericolosa
 
 :::
 
-## MDX and React Components
+## Componenti MDX e React
 
-[MDX](https://mdxjs.com/) can make your documentation more **interactive** and allows using any **React components inside Markdown**:
+[MDX](https://mdxjs.com/) può rendere la tua documentazione più **interattiva** e consente di utilizzare qualsiasi **componente React all'interno di Markdown**:
 
 ```jsx
-export const Highlight = ({children, color}) => (
+export const Evidenzia = ({bambini, colore}) => (
   <span
-    style={{
-      backgroundColor: color,
+    stile={{
+      sfondoColore: colore,
       borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
+      colore: '#ff',
+      imbottitura: '10px',
+      cursore: 'puntatore',
     }}
     onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`)
+      alert(`Hai cliccato sul colore ${color} con l'etichetta ${children}`)
     }}>
-    {children}
+    {bambini}
   </span>
 );
 
-This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
+Questo è <Highlight color="#25c2a0">Docusaurus green</Highlight>!
 
-This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+Questo è <Highlight color="#1877F2">Blu Facebook</Highlight>!
 ```
 
-export const Highlight = ({children, color}) => (
+export const Evidenzia = ({ bambini, colore }) => (
   <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
+    stile={{
+      sfondoColore: colore,
+      borderRadius: "20px",
+      colore: "#ff",
+      imbottitura: "10px",
+      cursore: "puntatore",
     }}
     onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`);
-    }}>
-    {children}
+      alert(`Hai cliccato sul colore ${color} con label ${children}`);
+    }}
+  >
+    {bambini}
   </span>
 );
 
-This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
+Questo è <Highlight color="#25c2a0">Docusaurus green</Highlight>!
 
-This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+Questo è <Highlight color="#1877F2">Blu Facebook</Highlight>!

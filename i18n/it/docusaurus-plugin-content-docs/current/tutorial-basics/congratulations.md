@@ -2,20 +2,20 @@
 sidebar_position: 6
 ---
 
-# Congratulations!
+# Italian Congratulations!
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Hai appena appreso le **basi di Docusaurus** e hai apportato alcune modifiche al **modello iniziale**.
 
-Docusaurus has **much more to offer**!
+Docusaurus ha **molto altro da offrire**!
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+Hai **5 minuti in più**? Dai un'occhiata a **[versioning](../tutorial-extras/manage-docs-versions.md)** e **[i18n](../tutorial-extras/translate-your-site.md)* *.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+Qualcosa di **non chiaro** o **buggy** in questo tutorial? [Per favore segnalalo!](https://github.com/facebook/docusaurus/discussions/4610)
 
-## What's next?
+## Qual è il prossimo?
 
-- Read the [official documentation](https://docusaurus.io/).
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- Leggi la [documentazione ufficiale](https://docusaurus.io/).
+- Aggiungi un [Design e layout] personalizzato (https://docusaurus.io/docs/styling-layout)
+- Aggiungi una [barra di ricerca](https://docusaurus.io/docs/search)
+- Trova ispirazione nella [vetrina Docusaurus](https://docusaurus.io/showcase)
+- Partecipa alla [Community di Docusaurus](https://docusaurus.io/community/support)
