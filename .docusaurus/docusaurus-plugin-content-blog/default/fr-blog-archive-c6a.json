@@ -1,0 +1,171 @@
+{
+  "blogPosts": [
+    {
+      "id": "welcome",
+      "metadata": {
+        "permalink": "/fr/blog/welcome",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+        "source": "@site/i18n/fr/docusaurus-plugin-content-blog/2021-08-26-welcome/index.md",
+        "title": "Welcome",
+        "description": "Scopriamo Docusaurus in meno di 5 minuti.",
+        "date": "2021-08-26T00:00:00.000Z",
+        "formattedDate": "26 août 2021",
+        "tags": [
+          {
+            "label": "facebook",
+            "permalink": "/fr/blog/tags/facebook"
+          },
+          {
+            "label": "hello",
+            "permalink": "/fr/blog/tags/hello"
+          },
+          {
+            "label": "docusaurus",
+            "permalink": "/fr/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 0.415,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Sébastien Lorber",
+            "title": "Docusaurus maintainer",
+            "url": "https://sebastienlorber.com",
+            "imageURL": "https://github.com/slorber.png",
+            "key": "slorber"
+          },
+          {
+            "name": "Yangshun Tay",
+            "title": "Front End Engineer @ Facebook",
+            "url": "https://github.com/yangshun",
+            "imageURL": "https://github.com/yangshun.png",
+            "key": "yangshun"
+          }
+        ],
+        "nextItem": {
+          "title": "MDX Blog Post",
+          "permalink": "/fr/blog/mdx-blog-post"
+        }
+      },
+      "content": "Scopriamo **Docusaurus in meno di 5 minuti**.\n\n## Iniziare\n\nInizia **creando un nuovo sito**.\n\nOppure **prova subito Docusaurus** con **[docusaurus.new](https://docusaurus.new)**.\n\n## Genera un nuovo sito\n\nGenera un nuovo sito Docusaurus utilizzando il **modello classico**:\n\n```conchiglia\nnpm init docusaurus@ultimo classico del mio sito web\n```\n\n## Avvia il tuo sito\n\nEsegui il server di sviluppo:\n\n```conchiglia\ncd mio-sito web\n\nnpx docusaurus start\n```\n\nIl tuo sito inizia con `http://localhost:3000`.\n\nApri `docs/intro.md` e modifica alcune righe: il sito **si ricarica automaticamente** e mostra le modifiche."
+    },
+    {
+      "id": "mdx-blog-post",
+      "metadata": {
+        "permalink": "/fr/blog/mdx-blog-post",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+        "source": "@site/i18n/fr/docusaurus-plugin-content-blog/2021-08-01-mdx-blog-post.mdx",
+        "title": "MDX Blog Post",
+        "description": "Scopriamo Docusaurus in meno di 5 minuti.",
+        "date": "2021-08-01T00:00:00.000Z",
+        "formattedDate": "1 août 2021",
+        "tags": [
+          {
+            "label": "docusaurus",
+            "permalink": "/fr/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 0.415,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Sébastien Lorber",
+            "title": "Docusaurus maintainer",
+            "url": "https://sebastienlorber.com",
+            "imageURL": "https://github.com/slorber.png",
+            "key": "slorber"
+          }
+        ],
+        "prevItem": {
+          "title": "Welcome",
+          "permalink": "/fr/blog/welcome"
+        },
+        "nextItem": {
+          "title": "Long Blog Post",
+          "permalink": "/fr/blog/long-blog-post"
+        }
+      },
+      "content": "Scopriamo **Docusaurus in meno di 5 minuti**.\n\n## Iniziare\n\nInizia **creando un nuovo sito**.\n\nOppure **prova subito Docusaurus** con **[docusaurus.new](https://docusaurus.new)**.\n\n## Genera un nuovo sito\n\nGenera un nuovo sito Docusaurus utilizzando il **modello classico**:\n\n```conchiglia\nnpm init docusaurus@ultimo classico del mio sito web\n```\n\n## Avvia il tuo sito\n\nEsegui il server di sviluppo:\n\n```conchiglia\ncd mio-sito web\n\nnpx docusaurus start\n```\n\nIl tuo sito inizia con `http://localhost:3000`.\n\nApri `docs/intro.md` e modifica alcune righe: il sito **si ricarica automaticamente** e mostra le modifiche."
+    },
+    {
+      "id": "long-blog-post",
+      "metadata": {
+        "permalink": "/fr/blog/long-blog-post",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+        "source": "@site/i18n/fr/docusaurus-plugin-content-blog/2019-05-29-long-blog-post.md",
+        "title": "Long Blog Post",
+        "description": "Scopriamo Docusaurus in meno di 5 minuti.",
+        "date": "2019-05-29T00:00:00.000Z",
+        "formattedDate": "29 mai 2019",
+        "tags": [
+          {
+            "label": "hello",
+            "permalink": "/fr/blog/tags/hello"
+          },
+          {
+            "label": "docusaurus",
+            "permalink": "/fr/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 2.155,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Endilie Yacop Sucipto",
+            "title": "Maintainer of Docusaurus",
+            "url": "https://github.com/endiliey",
+            "imageURL": "https://github.com/endiliey.png",
+            "key": "endi"
+          }
+        ],
+        "prevItem": {
+          "title": "MDX Blog Post",
+          "permalink": "/fr/blog/mdx-blog-post"
+        },
+        "nextItem": {
+          "title": "First Blog Post",
+          "permalink": "/fr/blog/first-blog-post"
+        }
+      },
+      "content": "Scopriamo **Docusaurus in meno di 5 minuti**.\n\n## Iniziare\n\nInizia **creando un nuovo sito**.\n\nOppure **prova subito Docusaurus** con **[docusaurus.new](https://docusaurus.new)**.\n\n## Genera un nuovo sito\n\nGenera un nuovo sito Docusaurus utilizzando il **modello classico**:\n\n```conchiglia\nnpm init docusaurus@ultimo classico del mio sito web\n```\n\n## Avvia il tuo sito\n\nEsegui il server di sviluppo:\n\n```conchiglia\ncd mio-sito web\n\nnpx docusaurus start\n```\n\nIl tuo sito inizia con `http://localhost:3000`.\n\nApri `docs/intro.md` e modifica alcune righe: il sito **si ricarica automaticamente** e mostra le modifiche.\n\n# Introduzione al tutorial\n\nScopriamo **Docusaurus in meno di 5 minuti**.\n\n## Iniziare\n\nInizia **creando un nuovo sito**.\n\nOppure **prova subito Docusaurus** con **[docusaurus.new](https://docusaurus.new)**.\n\n## Genera un nuovo sito\n\nGenera un nuovo sito Docusaurus utilizzando il **modello classico**:\n\n```conchiglia\nnpm init docusaurus@ultimo classico del mio sito web\n```\n\n## Avvia il tuo sito\n\nEsegui il server di sviluppo:\n\n```conchiglia\ncd mio-sito web\n\nnpx docusaurus start\n```\n\nIl tuo sito inizia con `http://localhost:3000`.\n\nApri `docs/intro.md` e modifica alcune righe: il sito **si ricarica automaticamente** e mostra le modifiche.\n\n# Introduzione al tutorial\n\nScopriamo **Docusaurus in meno di 5 minuti**.\n\n## Iniziare\n\nInizia **creando un nuovo sito**.\n\nOppure **prova subito Docusaurus** con **[docusaurus.new](https://docusaurus.new)**.\n\n## Genera un nuovo sito\n\nGenera un nuovo sito Docusaurus utilizzando il **modello classico**:\n\n```conchiglia\nnpm init docusaurus@ultimo classico del mio sito web\n```\n\n## Avvia il tuo sito\n\nEsegui il server di sviluppo:\n\n```conchiglia\ncd mio-sito web\n\nnpx docusaurus start\n```\n\nIl tuo sito inizia con `http://localhost:3000`.\n\nApri `docs/intro.md` e modifica alcune righe: il sito **si ricarica automaticamente** e mostra le modifiche.\n\n# Introduzione al tutorial\n\nScopriamo **Docusaurus in meno di 5 minuti**.\n\n## Iniziare\n\nInizia **creando un nuovo sito**.\n\nOppure **prova subito Docusaurus** con **[docusaurus.new](https://docusaurus.new)**.\n\n## Genera un nuovo sito\n\nGenera un nuovo sito Docusaurus utilizzando il **modello classico**:\n\n```conchiglia\nnpm init docusaurus@ultimo classico del mio sito web\n```\n\n## Avvia il tuo sito\n\nEsegui il server di sviluppo:\n\n```conchiglia\ncd mio-sito web\n\nnpx docusaurus start\n```\n\nIl tuo sito inizia con `http://localhost:3000`.\n\nApri `docs/intro.md` e modifica alcune righe: il sito **si ricarica automaticamente** e mostra le modifiche.\n\n# Introduzione al tutorial\n\nScopriamo **Docusaurus in meno di 5 minuti**.\n\n## Iniziare\n\nInizia **creando un nuovo sito**.\n\nOppure **prova subito Docusaurus** con **[docusaurus.new](https://docusaurus.new)**.\n\n## Genera un nuovo sito\n\nGenera un nuovo sito Docusaurus utilizzando il **modello classico**:\n\n```conchiglia\nnpm init docusaurus@ultimo classico del mio sito web\n```\n\n## Avvia il tuo sito\n\nEsegui il server di sviluppo:\n\n```conchiglia\ncd mio-sito web\n\nnpx docusaurus start\n```\n\nIl tuo sito inizia con `http://localhost:3000`.\n\nApri `docs/intro.md` e modifica alcune righe: il sito **si ricarica automaticamente** e mostra le modifiche."
+    },
+    {
+      "id": "first-blog-post",
+      "metadata": {
+        "permalink": "/fr/blog/first-blog-post",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+        "source": "@site/i18n/fr/docusaurus-plugin-content-blog/2019-05-28-first-blog-post.md",
+        "title": "First Blog Post",
+        "description": "Scopriamo Docusaurus in meno di 5 minuti.",
+        "date": "2019-05-28T00:00:00.000Z",
+        "formattedDate": "28 mai 2019",
+        "tags": [
+          {
+            "label": "hola",
+            "permalink": "/fr/blog/tags/hola"
+          },
+          {
+            "label": "docusaurus",
+            "permalink": "/fr/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 0.415,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Gao Wei",
+            "title": "Docusaurus Core Team",
+            "url": "https://github.com/wgao19",
+            "image_url": "https://github.com/wgao19.png",
+            "imageURL": "https://github.com/wgao19.png"
+          }
+        ],
+        "prevItem": {
+          "title": "Long Blog Post",
+          "permalink": "/fr/blog/long-blog-post"
+        }
+      },
+      "content": "Scopriamo **Docusaurus in meno di 5 minuti**.\n\n## Iniziare\n\nInizia **creando un nuovo sito**.\n\nOppure **prova subito Docusaurus** con **[docusaurus.new](https://docusaurus.new)**.\n\n## Genera un nuovo sito\n\nGenera un nuovo sito Docusaurus utilizzando il **modello classico**:\n\n```conchiglia\nnpm init docusaurus@ultimo classico del mio sito web\n```\n\n## Avvia il tuo sito\n\nEsegui il server di sviluppo:\n\n```conchiglia\ncd mio-sito web\n\nnpx docusaurus start\n```\n\nIl tuo sito inizia con `http://localhost:3000`.\n\nApri `docs/intro.md` e modifica alcune righe: il sito **si ricarica automaticamente** e mostra le modifiche."
+    }
+  ]
+}

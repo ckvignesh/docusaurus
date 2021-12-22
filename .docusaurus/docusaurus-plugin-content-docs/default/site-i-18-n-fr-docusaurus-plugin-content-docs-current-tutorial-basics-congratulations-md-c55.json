@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/congratulations",
+  "id": "tutorial-basics/congratulations",
+  "title": "Introduzione al tutorial",
+  "description": "Scopriamo Docusaurus in meno di 5 minuti.",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/tutorial-basics/congratulations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/fr/docs/tutorial-basics/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduzione al tutorial",
+    "permalink": "/fr/docs/tutorial-basics/deploy-your-site"
+  },
+  "next": {
+    "title": "Introduzione al tutorial",
+    "permalink": "/fr/docs/tutorial-extras/manage-docs-versions"
+  }
+}
