@@ -4,6 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+//@ts-ignore
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
@@ -39,6 +40,11 @@ const config = {
     ],
   ],
 
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'fr'],
+  },
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -54,6 +60,10 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
+          },
+          {
+          type: 'localeDropdown',
+          position: 'left',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
