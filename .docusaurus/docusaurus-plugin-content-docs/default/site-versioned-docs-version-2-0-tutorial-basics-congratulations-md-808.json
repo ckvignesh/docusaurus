@@ -1,15 +1,15 @@
 {
   "unversionedId": "tutorial-basics/congratulations",
-  "id": "tutorial-basics/congratulations",
+  "id": "version-2.0/tutorial-basics/congratulations",
   "title": "Congratulations!",
   "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-  "source": "@site/docs/tutorial-basics/congratulations.md",
+  "source": "@site/versioned_docs/version-2.0/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/docs/next/tutorial-basics/congratulations",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+  "permalink": "/docs/tutorial-basics/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-2.0/tutorial-basics/congratulations.md",
   "tags": [],
-  "version": "current",
+  "version": "2.0",
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/docs/next/tutorial-basics/deploy-your-site"
+    "permalink": "/docs/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Manage Docs Versions",
-    "permalink": "/docs/next/tutorial-extras/manage-docs-versions"
+    "permalink": "/docs/tutorial-extras/manage-docs-versions"
   }
 }

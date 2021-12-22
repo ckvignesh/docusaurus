@@ -1,17 +1,17 @@
 {
   "pluginId": "default",
-  "version": "current",
-  "label": "Next",
-  "banner": "unreleased",
+  "version": "1.0",
+  "label": "1.0",
+  "banner": "unmaintained",
   "badge": true,
-  "className": "docs-version-current",
+  "className": "docs-version-1.0",
   "isLast": false,
   "docsSidebars": {
     "tutorialSidebar": [
       {
         "type": "link",
         "label": "Tutorial Intro",
-        "href": "/docs/next/intro",
+        "href": "/docs/1.0/intro",
         "docId": "intro"
       },
       {
@@ -23,37 +23,37 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docs/next/tutorial-basics/create-a-page",
+            "href": "/docs/1.0/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/next/tutorial-basics/create-a-document",
+            "href": "/docs/1.0/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/next/tutorial-basics/create-a-blog-post",
+            "href": "/docs/1.0/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/next/tutorial-basics/markdown-features",
+            "href": "/docs/1.0/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/next/tutorial-basics/deploy-your-site",
+            "href": "/docs/1.0/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/next/tutorial-basics/congratulations",
+            "href": "/docs/1.0/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ]
@@ -67,13 +67,13 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docs/next/tutorial-extras/manage-docs-versions",
+            "href": "/docs/1.0/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/next/tutorial-extras/translate-your-site",
+            "href": "/docs/1.0/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ]
