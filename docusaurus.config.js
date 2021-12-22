@@ -71,6 +71,9 @@ const config = {
           type: 'localeDropdown',
           position: 'left',
           },
+          {
+          type: 'docsVersionDropdown',
+          },
         ],
       },
       footer: {

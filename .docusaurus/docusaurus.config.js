@@ -63,6 +63,12 @@ export default {
           "position": "left",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
+        },
+        {
+          "type": "docsVersionDropdown",
+          "position": "left",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false
