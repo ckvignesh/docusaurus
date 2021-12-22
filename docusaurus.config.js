@@ -14,8 +14,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'test', // Usually your GitHub org/user name.
+  projectName: 'test', // Usually your repo name.
 
   presets: [
     [
@@ -42,7 +42,7 @@ const config = {
 
 i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'fr'],
+    locales: ['en', 'it'],
   },
 
   themeConfig:
