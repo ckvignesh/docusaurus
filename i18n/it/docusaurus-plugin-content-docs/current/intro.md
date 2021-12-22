@@ -2,17 +2,17 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Italian Translated Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## Italian Translated Getting Started
 
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-## Generate a new site
+## Italian Translated Generate a new site
 
 Generate a new Docusaurus site using the **classic template**:
 
