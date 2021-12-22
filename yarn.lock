@@ -1361,7 +1361,7 @@
     "utility-types" "^3.10.0"
     "webpack" "^5.61.0"
 
-"@docusaurus/plugin-content-docs@2.0.0-beta.13":
+"@docusaurus/plugin-content-docs@^2.0.0-beta.13", "@docusaurus/plugin-content-docs@2.0.0-beta.13":
   "integrity" "sha512-NaYxr/R+FBaONUFEcFAOfYNA5CRwceRHNFOEIRdJtkJZbWpct5vkKPIojUWUfJbXb2/nV98rPufHyOdVmvAxVA=="
   "resolved" "https://registry.npmjs.org/@docusaurus/plugin-content-docs/-/plugin-content-docs-2.0.0-beta.13.tgz"
   "version" "2.0.0-beta.13"
@@ -6053,6 +6053,7 @@
   "version" "6.0.10"
 
 "react-error-overlay@7.0.0-next.54+1465357b":
+  "integrity" "sha512-b96CiTnZahXPDNH9MKplvt5+jD+BkxDw7q5R3jnkUXze/ux1pLv32BBZmlj0OfCUeMqyz4sAmF+0ccJGVMlpXw=="
   "version" "7.0.0-next.54"
 
 "react-fast-compare@^3.1.1":
