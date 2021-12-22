@@ -2,7 +2,7 @@
   "defaultLocale": "en",
   "locales": [
     "en",
-    "fr"
+    "it"
   ],
   "currentLocale": "en",
   "localeConfigs": {
@@ -10,8 +10,8 @@
       "label": "English",
       "direction": "ltr"
     },
-    "fr": {
-      "label": "Français",
+    "it": {
+      "label": "Italiano",
       "direction": "ltr"
     }
   }
